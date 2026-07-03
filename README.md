@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
