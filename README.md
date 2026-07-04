@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
