@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0260-single-number-iii) |
 | [0503-next-greater-element-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
