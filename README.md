@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0260-single-number-iii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0085-maximal-rectangle) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0735-asteroid-collision) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
