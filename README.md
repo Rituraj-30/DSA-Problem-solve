@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0260-single-number-iii) |
 | [0503-next-greater-element-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0735-asteroid-collision) |
@@ -103,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0402-remove-k-digits) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
