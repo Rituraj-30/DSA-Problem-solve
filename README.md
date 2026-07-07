@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0146-lru-cache) |
 ## Backtracking
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
