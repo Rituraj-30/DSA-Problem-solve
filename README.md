@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0146-lru-cache) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
