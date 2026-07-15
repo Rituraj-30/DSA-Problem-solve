@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -125,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0846-hand-of-straights) |
 ## Queue
 |  |
