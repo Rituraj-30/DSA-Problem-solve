@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0503-next-greater-element-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0846-hand-of-straights) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0846-hand-of-straights) |
 ## Tree
