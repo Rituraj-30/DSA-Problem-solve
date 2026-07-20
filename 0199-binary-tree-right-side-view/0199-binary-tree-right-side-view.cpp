@@ -26,18 +26,37 @@ public:
     }
     vector<int> rightSideView(TreeNode* root) {
 
+        // vector<int> ans;
+        //  helper(root,0,ans);
+        // return ans;
+
         vector<int> ans;
-        // if (root == NULL)
-        //     return ans;
+
+        if (root == NULL)
+            return ans;
         
-        // queue<TreeNode*>q;
+        queue<TreeNode*>q;
+        q.push(root);
 
+        while(!q.empty()){
+            int size=q.size();
 
-        // while(!q.empty()){
+            for(int i=0;i<size;i++){
+                TreeNode* currNode=q.front();
+                q.pop();
 
-        // }
-         helper(root,0,ans);
-        
+                if(i==size-1){
+                    ans.push_back(currNode->val);
+                }
+                if(currNode->left!=NULL){
+                    q.push(currNode->left);
+                }
+                if(currNode->right!=NULL){
+                    q.push(currNode->right);
+                }
+
+            }
+        }
         return ans;
     }
 };
