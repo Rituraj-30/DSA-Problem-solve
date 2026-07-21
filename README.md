@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0700-search-in-a-binary-search-tree) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0700-search-in-a-binary-search-tree) |
