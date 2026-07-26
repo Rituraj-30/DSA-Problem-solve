@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0424-longest-repeating-character-replacement) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0904-fruit-into-baskets) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -294,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0199-binary-tree-right-side-view) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -303,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
