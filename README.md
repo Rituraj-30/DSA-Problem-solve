@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/1248-count-number-of-nice-subarrays) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0846-hand-of-straights) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
 |  |
 | ------- |
