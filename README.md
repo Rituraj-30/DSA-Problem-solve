@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
