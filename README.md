@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rituraj-30/DSA-Problem-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
